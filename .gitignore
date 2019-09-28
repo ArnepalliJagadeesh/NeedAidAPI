@@ -4,3 +4,7 @@
 
 /NeedAidAPI/bin
 /NeedAidAPI/obj/Debug
+/NeedAidLogging/obj/Debug
+/NeedAidModels/obj/Debug
+/NeedAidService/obj/Debug
+/NeedAidUtility/obj/Debug
